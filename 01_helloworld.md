@@ -23,7 +23,7 @@ int main()
 }
 ```
 今にも「スタンダードライブラリ読み込んでねーじゃん」とか「main関数ないやん」という声が聞こえてきそうです。
-でも、これはSwiftの言語仕様によるものです。[サンプルコード](SampleSource/01_Hello_world/Source/main.swift)をみてください。ファイル名は`main.swift`ですよね。実はSwiftコンパイラは`main.swift`を丸ごとmain関数として扱います。ですから
+でも、これはSwiftの言語仕様によるものです。[サンプルコード](/SampleSource/01_Hello_world/Sources/main.swift)をみてください。ファイル名は`main.swift`ですよね。実はSwiftコンパイラは`main.swift`を丸ごとmain関数として扱います。ですから
 
 ```
 int main()
