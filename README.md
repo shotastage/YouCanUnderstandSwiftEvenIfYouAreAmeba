@@ -5,5 +5,9 @@ Swiftは世界で最も先進的なプログラミング言語です。
 
 
 ## INDEX
-
+- [00 Swiftのセットアップ](00_SetUp.md)
 - [01 Hello world](01_helloworld.md)
+
+
+#### Author
+- [Shota Shimazu](https://shotastage.github.io)
