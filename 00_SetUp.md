@@ -45,3 +45,9 @@ Edit
 
 7. `exit`でターミナルを終了してください。
 8. セットアップ完了です。
+
+
+-------
+[< ホームに戻る](https://github.com/shotastage/YouCanUnderstandSwiftEvenIfYouAreAmeba/blob/master/README.md)
+[[Swiftのセットアップ]](00_SetUp.md)
+[次 Hello world!>](01_helloworld.md)
