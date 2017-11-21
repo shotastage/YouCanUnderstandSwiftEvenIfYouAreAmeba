@@ -1,7 +1,17 @@
-Swift3.0のHello, worldプログラム
+Swift4.0のHello, worldプログラム
 ------------------------------
 
-なぜかプログラムの世界では手始めとしてHello, world!と表示させるプログラムを書きます。早速、SwiftでHello, world!を表示させてみましょう。
+なぜかプログラムの世界では手始めとしてHello, world!と表示させるプログラムを書きます。ここでは、Swiftを使ったHello, world!を解説していきます。
+
+
+#  1. Swiftのパッケージを作る
+
+
+```
+mkdir Hello
+cd Hello
+swift package init --executable
+```
 
 ```
 print("Hello, world!")
