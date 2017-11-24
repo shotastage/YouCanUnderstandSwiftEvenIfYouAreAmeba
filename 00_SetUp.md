@@ -32,6 +32,11 @@ Macについてを押してください。
 **2. セットアップ完了です。**
 
 
+## それ以外のOS
+Swiftは今のところ、macOSとUbuntuのみをサポートしています。Ubuntuを使っている人は[swift.org](https://swift.org)からパッケージをダウンロードできます。他のLinuxディストリビューションでも恐らく動作するかもしれませんが、公式にはサポートされていません。
+また、Windowsにおいては(有志でWindowsで動作するSwiftコンパイラのフォークはあります)動作しません。
+なお、macOS以外ではSwiftを使ったiOSおよびmacOSアプリケーションの開発はできないのでご注意ください。
+
 -------
 [< ホームに戻る](https://github.com/shotastage/YouCanUnderstandSwiftEvenIfYouAreAmeba/blob/master/README.md)
 [[Swiftのセットアップ]](00_SetUp.md)
